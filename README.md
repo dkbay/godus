@@ -1,2 +1,2 @@
 # Godus
-Somethiing the NSA would be proud of.
+Something the NSA would be proud of.
