@@ -1,0 +1,6 @@
+name: Godus
+version: ${project.version}
+main: com.dkbay.godus.Godus
+api-version: 1.16
+authors: [Dkbay]
+description: Something the NSA would be proud of.
